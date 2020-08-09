@@ -1,2 +1,2 @@
 # portfolio
-![index](portfolio/index.html)
+![portfolio_screenshot](portfolio_screenshot.png)
